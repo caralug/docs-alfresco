@@ -2,7 +2,7 @@
 title: Overview of sites
 ---
 
-A site is a area where you can share content and collaborate with other site members.
+A site is an area where you can share content and collaborate with other site members.
 
 Any user can create a site. The site creator becomes the **Site Manager** by default, though additional or alternate managers can be added after this.
 
